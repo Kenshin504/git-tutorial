@@ -1,8 +1,0 @@
-#include <stdio.h>
-
-void main()
-{
-    printf("This is version 4.2");
-    printf("Hello");
-    printf("Using gitHub as remote repository version 1.1");
-}
